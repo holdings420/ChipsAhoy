@@ -1,5 +1,6 @@
 # ChipsAhoy
 Chips yum
+Homemade Open Source Quantum Computer 
 
 ## Relatively quick scraper
 
